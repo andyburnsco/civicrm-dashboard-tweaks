@@ -1,0 +1,13 @@
+/* Make dashboard a single column */
+#civicrm-dashboard > .crm-flex-box > .crm-flex-2 {
+  min-width: 100% !important;
+}
+
+#crm-container #civicrm-dashboard .widget-wrapper {
+        margin: 0px 20px 30px 10px;
+}
+
+div.crm-container .crm-dashlet {
+        box-shadow:1px 1px 4px 1px rgba(0,0,0,0.2);
+        margin: 0px 20px 30px 20px;
+}
