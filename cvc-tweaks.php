@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: CiviCRM Tweaks
+Plugin Name: CiviCRM Dashboard Tweaks
 Description: CiviCRM modifications to dashboard and nav menu
 Version 1.0
 Author: Andy Burns
