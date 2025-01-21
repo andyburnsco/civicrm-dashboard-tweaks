@@ -10,7 +10,7 @@ Domain Path: /languages
 */
 /* Start Adding Functions Below this Line */
 
-add_action('admin_enqueue_scripts', 'cvc_admin_theme_style', 999);
+add_action('admin_enqueue_scripts', 'cvc_admin_theme_style');
 
 function cvc_admin_theme_style() {
     wp_enqueue_style('cvc-admin-theme', plugins_url('cvc-admin.css', __FILE__));
